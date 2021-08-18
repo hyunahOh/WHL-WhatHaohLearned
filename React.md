@@ -1,8 +1,6 @@
 # 1. 리스트 아이템 (List Item Memorize)
 
-![](./asset/1.gif)
-![](./asset/2.gif)
-
+<img src="./asset/1.gif" width="200"> <img src="./asset/2.gif" width="200">
 ```
 import React, {memo} from 'react';
 
